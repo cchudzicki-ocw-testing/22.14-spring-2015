@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the problem sets and exams for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Assignments and Exams

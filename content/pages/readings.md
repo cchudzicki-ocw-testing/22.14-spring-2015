@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the assignments for each session of
+  the course and additional reading resources.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
